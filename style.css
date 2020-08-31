@@ -1,0 +1,39 @@
+body {
+    background-color: #114b5f;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: 0;
+    color: #ffffff;
+}
+
+.header {
+    background-color: #1094ab;
+    font-family: 'Amatic SC', cursive;
+    padding: 10px;
+}
+
+.header h1 {
+    font-size: 70px; 
+}
+
+.header h2 {
+    font-size: 50px;
+}
+
+.header img {
+    width: 20%;
+    float: left;
+    padding-top: 60px;
+}
+
+.intro {
+    text-align: justify;
+    padding-right: 50%;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
